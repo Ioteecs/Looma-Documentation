@@ -57,6 +57,7 @@ Looma may restart several times during the update process.
 
 Once Looma has been update, the colored ring should be off after having blinking three times in green. The displayed page looks like the screen capture below.
 
+
 .. figure:: /_static/Looma-home.png
    :alt: Looma - Home page
    :align: center

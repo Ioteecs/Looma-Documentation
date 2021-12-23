@@ -1,3 +1,5 @@
 {
-    "restructuredtext.confPath": "${workspaceFolder}\\docs\\source"
+    "restructuredtext.confPath": "${workspaceFolder}\\docs\\source",
+    "restructuredtext.languageServer.disabled": true,
+    "restructuredtext.linter.disabled": true
 }
